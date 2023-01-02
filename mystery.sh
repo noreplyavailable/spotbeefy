@@ -10,7 +10,7 @@ post_help() {
 	echo "*** The unofficial tool for taking a look at where the linux spotify flatpack sends it's data ***"
 	echo
 	echo "Syntax:"
-	echo "./china.sh [init/get/whois] "
+	echo "./mystery.sh [init/get/whois] "
 	echo "init should be run before running it for the first time"
 	echo
 	echo "[get]"
